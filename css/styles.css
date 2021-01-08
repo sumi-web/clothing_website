@@ -687,6 +687,10 @@ figure:hover .sell-add {
   .cat-list ul li {
     font-size: 0.98rem;
   }
+
+  .site-cover-box h2 {
+    font-size: 3rem;
+  }
 }
 
 @media(max-width:466px) {
@@ -785,4 +789,9 @@ figure:hover .sell-add {
     font-size: 0.8rem;
     font-weight: bold;
   }
+
+  .site-cover-box h2 {
+    font-size: 2.5rem;
+  }
+
 }
